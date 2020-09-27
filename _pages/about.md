@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master student at ShanghaiTech, advised by Prof. Shenghua Gao. I received my undergraduate degree from Xiamen University. I have also spent time at research lab of Tencent AI Lab.
+I am a Master student at ShanghaiTech, advised by [Prof. Shenghua Gao](https://sist.shanghaitech.edu.cn/sist_en/2018/0820/c3846a31775/page.htm). I received my undergraduate degree from Xiamen University. I have also spent time at research lab of Tencent AI Lab.
 
 My research focuses on Computer Vision and Machine Learning, espically on 3D Vision (Depth Estimation, Plane Detection, Multi-view Stereo, 3D reconstruction, 3D Human Modeling).
 
@@ -53,7 +53,7 @@ Publications
 	* [Paper](https://arxiv.org/pdf/1907.02364.pdf), [Code](https://github.com/svip-lab/GazeFollowing)
 
 * **[Deep Multi-Task Learning to Recognise Subtle Facial Expressions of Mental States](https://openaccess.thecvf.com/content_ECCV_2018/papers/Guosheng_Hu_Deep_Multi-Task_Learning_ECCV_2018_paper.pdf)**
-	* Guosheng Hu*, Li liu, Yang Yuan, **Zehao Yu**, Yang Hua, Zhihong Zhang, Fumin Shen, Ling Shao, Timothy Hospedales, Neil Robertson, Yongxin Yang
+	* Guosheng Hu, Li liu, Yang Yuan, **Zehao Yu**, Yang Hua, Zhihong Zhang, Fumin Shen, Ling Shao, Timothy Hospedales, Neil Robertson, Yongxin Yang
 	* European Conference on Computer Vision (**ECCV**), 2018
 	* [Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Guosheng_Hu_Deep_Multi-Task_Learning_ECCV_2018_paper.pdf)
 
