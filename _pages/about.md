@@ -32,10 +32,12 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
+* **[P<sup>2</sup>Net: Patch-match and Plane-regularization for Unsupervised Indoor Depth Estimation](https://github.com/svip-lab/Indoor-SfMLearner)**
+	* <b>Zehao Yu*<b>, Lei Jin*, Shenghua Gao
+	* European Conference on Computer Vision (<b>ECCV<b>), 2020
+	* [paper](https://arxiv.org/pdf/2007.07696.pdf), [code](https://github.com/svip-lab/Indoor-SfMLearner)
+	
+  
 Professional Services
 ======
 * Journal Reviewer: <i> IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) </i>
