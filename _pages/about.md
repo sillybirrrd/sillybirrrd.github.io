@@ -26,7 +26,7 @@ Education
 
 Work experience
 ======
-* **Tencent AI Lab, Shenzhen, China, (Mar 2020 - Now)**
+* **Tencent AI Lab, Shenzhen, China, (Mar 2020 - Feb 2021)**
 	* Research Intern
 	* 3D Human Modeling
 
