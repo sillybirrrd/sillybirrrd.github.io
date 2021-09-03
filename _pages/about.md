@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the [University of Tübingen](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/home/) under the [ELLIS](https://ellis.eu) program, supervised by [Andreas Geiger](http://www.cvlibs.net) and [Torsten Sattler](https://tsattler.github.io). I received my Master's and Bachelor's degree from ShanghaiTech University and Xiamen University, respectively. 
+I am a PhD student at the [University of Tübingen](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/home/) under the [ELLIS](https://ellis.eu) program, co-supervised by [Andreas Geiger](http://www.cvlibs.net) and [Torsten Sattler](https://tsattler.github.io). I received my Master's and Bachelor's degree from ShanghaiTech University and Xiamen University, respectively. 
 
 My research focuses on Computer Vision and Machine Learning, espically on 3D Vision (Depth Estimation, Plane Detection, Multi-view Stereo, 3D reconstruction, 3D Human Modeling).
 
