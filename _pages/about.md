@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master student at ShanghaiTech, advised by [Prof. Shenghua Gao](https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54772/page.htm). I received my undergraduate degree from Xiamen University. I have also spent time at research lab of Tencent AI Lab.
+I am a PhD student at the [University of Tübingen](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/home/) under the [ELLIS](https://ellis.eu) program, supervised by [Andreas Geiger](http://www.cvlibs.net) and [Torsten Sattler](https://tsattler.github.io). I received my Master's and Bachelor's degree from ShanghaiTech University and Xiamen University, respectively. 
 
 My research focuses on Computer Vision and Machine Learning, espically on 3D Vision (Depth Estimation, Plane Detection, Multi-view Stereo, 3D reconstruction, 3D Human Modeling).
 
@@ -18,9 +18,12 @@ My CV is [here](http://niujinshuchong.github.io/files/CV.pdf).
 
 Education
 ======
-* **ShanghaiTech University, China (Aug 2018 - Now)**
+* **University of Tübingen, Germany (Sept. 2021 - Now)**
 	* M.S., Computer Science
-	* Advisor: Prof. Shenghua Gao
+	* Advisor: Andreas Geiger and Torsten Sattler
+* **ShanghaiTech University, China (Aug. 2018 - July 2021)**
+	* M.S., Computer Science
+	* Advisor: [Shenghua Gao](https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54772/page.htm)
 *  **Xiamen University, China (Aug 2014 - Jun 2018)**
 	* B.E., Software Engineering
 
