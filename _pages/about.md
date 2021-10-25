@@ -19,7 +19,7 @@ My CV is [here](http://niujinshuchong.github.io/files/CV.pdf).
 Education
 ======
 * **University of Tübingen, Germany (Sept. 2021 - Now)**
-	* M.S., Computer Science
+	* Ph.D, Computer Science
 	* Advisor: Andreas Geiger and Torsten Sattler
 * **ShanghaiTech University, China (Aug. 2018 - July 2021)**
 	* M.S., Computer Science
