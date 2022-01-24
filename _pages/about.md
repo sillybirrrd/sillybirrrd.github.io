@@ -35,6 +35,11 @@ Work experience
 
 Publications
 ======
+* **[AS-MLP: An Axial Shifted MLP Architecture for Vision](https://github.com/svip-lab/AS-MLP)**
+	* Dongze Lian*, **Zehao Yu\***, Shenghua Gao
+	* International Conference on Learning Representations (**ICLR**), 2022
+	* [Paper](https://arxiv.org/pdf/2107.08391.pdf), [Code](https://github.com/svip-lab/AS-MLP)
+
 * **[P<sup>2</sup>Net: Patch-match and Plane-regularization for Unsupervised Indoor Depth Estimation](https://github.com/svip-lab/Indoor-SfMLearner)**
 	* **Zehao Yu\***, Lei Jin*, Shenghua Gao
 	* European Conference on Computer Vision (**ECCV**), 2020
