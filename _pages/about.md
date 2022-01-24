@@ -36,7 +36,7 @@ Work experience
 Publications
 ======
 * **[AS-MLP: An Axial Shifted MLP Architecture for Vision](https://github.com/svip-lab/AS-MLP)**
-	* Dongze Lian*, **Zehao Yu\***, Shenghua Gao
+	* Dongze Lian*, **Zehao Yu\***, Xing Sun, Shenghua Gao
 	* International Conference on Learning Representations (**ICLR**), 2022
 	* [Paper](https://arxiv.org/pdf/2107.08391.pdf), [Code](https://github.com/svip-lab/AS-MLP)
 
