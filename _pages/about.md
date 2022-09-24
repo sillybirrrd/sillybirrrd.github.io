@@ -35,6 +35,11 @@ Work experience
 
 Publications
 ======
+* **[MonoSDF: Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction](https://niujinshuchong.github.io/monosdf/)**
+	* **Zehao Yu**, Songyou Peng, Michael Niemeyer, Torsten Sattler, Andreas Geiger
+	* Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS**), 2022
+	* [Project](https://niujinshuchong.github.io/monosdf/), [Paper](https://arxiv.org/abs/2206.00665), [Code](https://github.com/autonomousvision/monosdf)
+
 * **[TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving](https://github.com/autonomousvision/transfuser)**
 	* Kashyap Chitta, Aditya Prakash, Bernhard Jaeger, **Zehao Yu**, Katrin Renz, Andreas Geiger
 	* IEEE Transactions on Pattern Analysis and Machine Intelligence (**PAMI**), 2022
