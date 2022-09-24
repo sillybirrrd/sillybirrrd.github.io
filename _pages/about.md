@@ -35,6 +35,11 @@ Work experience
 
 Publications
 ======
+* **[TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving](https://github.com/autonomousvision/transfuser)**
+	* Kashyap Chitta, Aditya Prakash, Bernhard Jaeger, **Zehao Yu**, Katrin Renz, Andreas Geiger
+	* IEEE Transactions on Pattern Analysis and Machine Intelligence (**PAMI**), 2022
+	* [Paper](http://www.cvlibs.net/publications/Chitta2022PAMI.pdf), [Code](https://github.com/autonomousvision/transfuser)
+
 * **[AS-MLP: An Axial Shifted MLP Architecture for Vision](https://github.com/svip-lab/AS-MLP)**
 	* Dongze Lian*, **Zehao Yu\***, Xing Sun, Shenghua Gao
 	* International Conference on Learning Representations (**ICLR**), 2022
