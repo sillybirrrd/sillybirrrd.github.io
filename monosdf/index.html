@@ -304,6 +304,28 @@
           </video>
         </div>
 
+        <h3 class="title is-4">Tanks and Temples with High-resolution Monocular Cues</h3>
+        <div class="content has-text-justified">
+          <p>
+            We show a preliminary result of using high-resolution cues in the Tanks and Temples dataset.
+          </p>
+        </div>
+        
+        <div class="content has-text-centered">
+          <video id="replay-video"
+                 autoplay
+                 controls
+                 muted
+                 preload
+                 playsinline
+                 loop
+                 width="100%">
+            <source src="./resources/TNT_highres.mp4"
+                    type="video/mp4">
+          </video>
+        </div>
+
+
         <h3 class="title is-4">DTU with <b>3 Input Views</b> </h3>
         <div class="content has-text-justified">
           <p>
@@ -324,6 +346,28 @@
                     type="video/mp4">
           </video>
         </div>
+
+        <h3 class="title is-4">DTU with <b>All Input Views</b> </h3>
+        <div class="content has-text-justified">
+          <p>
+            We test our method on the DTU dataset with <strong>all input views</strong>. Using multi-resolution feature grids with monocular geometric cues significantly boost the reconstruction results. 
+          </p>
+        </div>
+        
+        <div class="content has-text-centered">
+          <video id="replay-video"
+                  autoplay
+                 controls
+                 muted
+                 preload
+                 playsinline
+                 loop
+                 width="90%">
+            <source src="./resources/DTU_allview.mp4"
+                    type="video/mp4">
+          </video>
+        </div>
+
 
         <h3 class="title is-4">Ablation on Replica</h3>
         
@@ -363,7 +407,7 @@
     <pre><code>@article{Yu2022MonoSDF,
   author    = {Yu, Zehao and Peng, Songyou and Niemeyer, Michael and Sattler, Torsten and Geiger, Andreas},
   title     = {MonoSDF: Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction},
-  journal   = {arXiv:2022.00665},
+  journal   = {Advances in Neural Information Processing Systems (NeurIPS)},
   year      = {2022},
 }</code></pre>
   </div>
@@ -377,7 +421,8 @@
     ZY is supported by BMWi in the project KI Delta Learning (project number 19A19013O). 
     AG is supported by the ERC Starting Grant LEGO-3D (850533) and DFG EXC number 2064/1 - project number 390727645.
     TS is supported by the EU Horizon 2020 project RICAIP (grant agreeement No.857306), and the European Regional Development Fund under project IMPACT (No. CZ.02.1.01/0.0/0.0/15_003/0000468).
-    We also thank the authors of Manhattan-SDF for sharing baseline results on ScanNet.
+    We also thank the authors of Manhattan-SDF for sharing baseline results on ScanNet. We also thank Christian
+    Reiser and Zijian Dong for proofreading.
   </div>
 </section>
 
