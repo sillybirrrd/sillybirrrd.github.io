@@ -280,6 +280,13 @@
           <canvas height=0 class="videoMerge" id="xyalias9Merge"></canvas>
         </div>
 
+        <div class="content has-text-justified">
+          <p>
+            Here, we show more comparisons with 3DGS + EWA. Both models are trained with downsampled images with factor 8 and render at higher-resolution. 
+            GT (Training resolution) is the image we used for training but bilinearly upsampled to higher-resolution for reference and GT (8x resolutionn) is the real GT image we used for evaluation.
+          </p>
+        </div>
+
         <div class="container">
           <ul class="nav nav-tabs nav-fill nav-justified" id="object-scale-recon">
               <li class="nav-item">
@@ -310,7 +317,8 @@
           <div class="b-dics" style="width: 1000px; font-weight: 600;">
               <img src="resources/360_stmt_supp/bonsai_12_3dgs.jpg" alt="3DGS+EWA">
               <img src="resources/360_stmt_supp/bonsai_12_ours.jpg" alt="Mip-Splatting (ours)">
-              <img src="resources/360_stmt_supp/bonsai_12_gt.jpg" alt="GT">
+              <img src="resources/360_stmt_supp/bonsai_12_upgt.jpg" alt="GT (Training resolution)">
+              <img src="resources/360_stmt_supp/bonsai_12_gt.jpg" alt="GT (8x resolution)">
           </div>
         </div>
 
@@ -333,7 +341,9 @@
         <div class="content has-text-justified">
           <p>
             The 3D smoothing filter constrains the size of the 3D Gaussian primitives based on the maximal sampling frequency induced by the training views, eliminating high frequency artifacts when zooming in. 
-            In the following comparisons, we train the models with downsampled images and render high resolution images to simulate zoom-in effects. Excluding the 3D smoothing filter results in high-frequency artifacts.
+            In the following comparisons, we train the models with downsampled images and render high resolution images to simulate zoom-in effects. Excluding the 3D smoothing filter results in high-frequency artifacts. 
+            Note that both models are trained with downsampled images with factor 8 and render at higher-resolution. 
+            GT (Training resolution) is the image we used for training but bilinearly upsampled to higher-resolution for reference and GT (8x resolutionn) is the real GT image we used for evaluation.
           </p>
         </div>
         
@@ -369,7 +379,9 @@
           <div class="b-dics" style="width: 1000px; font-weight: 600;">
               <img src="resources/360_stmt_ablation/bicycle_0_no3d.jpg" alt="Ours w/o 3D filter">
               <img src="resources/360_stmt_ablation/bicycle_0_ours.jpg" alt="Mip-Splatting (ours)">
-              <img src="resources/360_stmt_ablation/bicycle_0_gt.jpg" alt="GT">
+              <img src="resources/360_stmt_ablation/bicycle_0_upgt.jpg" alt="GT (Training resolution)">
+              <img src="resources/360_stmt_ablation/bicycle_0_gt.jpg" alt="GT (8x resolution)">
+              
           </div>
         </div>
 

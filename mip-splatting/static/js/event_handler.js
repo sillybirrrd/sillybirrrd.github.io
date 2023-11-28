@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', domReady);
         function objectSceneEvent(idx) {
             let dics = document.querySelectorAll('.b-dics')[0]
             let sections = dics.getElementsByClassName('b-dics__section')
-            let imagesLength = 3
+            let imagesLength = 4
             for (let i = 0; i < imagesLength; i++) {
                 let image = sections[i].getElementsByClassName('b-dics__image-container')[0].getElementsByClassName('b-dics__image')[0]
                 switch (idx) {
@@ -120,8 +120,12 @@ document.addEventListener('DOMContentLoaded', domReady);
                         image.src = image.src + '_ours.jpg';
                         break;
                     case 2:
+                        image.src = image.src + '_upgt.jpg';
+                        break;
+                    case 3:
                         image.src = image.src + '_gt.jpg';
                         break;
+
                 }
             }
 
@@ -139,7 +143,7 @@ document.addEventListener('DOMContentLoaded', domReady);
         function ablation3DEvent(idx) {
             let dics = document.querySelectorAll('.b-dics')[1]
             let sections = dics.getElementsByClassName('b-dics__section')
-            let imagesLength = 3
+            let imagesLength = 4
             for (let i = 0; i < imagesLength; i++) {
                 let image = sections[i].getElementsByClassName('b-dics__image-container')[0].getElementsByClassName('b-dics__image')[0]
                 switch (idx) {
@@ -170,6 +174,9 @@ document.addEventListener('DOMContentLoaded', domReady);
                         image.src = image.src + '_ours.jpg';
                         break;
                     case 2:
+                        image.src = image.src + '_upgt.jpg';
+                        break;
+                    case 3:
                         image.src = image.src + '_gt.jpg';
                         break;
                 }
