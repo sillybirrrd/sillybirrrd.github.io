@@ -35,12 +35,12 @@ Work experience
 
 Publications
 ======
-* **[Mip-Splatting: Alias-free 3D Gaussian Splatting](https://niujinshuchong.github.io/monosdf/)**
+* **[Mip-Splatting: Alias-free 3D Gaussian Splatting](https://niujinshuchong.github.io/mip-splatting/)**
 	* **Zehao Yu**, Anpei Chen, Binbin Huang, Torsten Sattler, Andreas Geiger
 	* arXiv, 2023
 	* [Project](https://niujinshuchong.github.io/mip-splatting), [Paper](https://arxiv.org/pdf/2311.16493.pdf), [Code](https://github.com/autonomousvision/mip-splatting), [Demo](https://niujinshuchong.github.io/mip-splatting-demo)
 
-* **[SDFStudio: A Unified Framework for Surface Reconstruction](https://niujinshuchong.github.io/monosdf/)**
+* **[SDFStudio: A Unified Framework for Surface Reconstruction](https://autonomousvision.github.io/sdfstudio)**
 	* **Zehao Yu**, Anpei Chen, Bozidar Antic, Songyou Peng, Apratim Bhattacharyya, Michael Niemeyer, Siyu Tang, Torsten Sattler, Andreas Geiger
 	* Open source project, 2022
 	* [Project](https://autonomousvision.github.io/sdfstudio), [Code](https://github.com/autonomousvision/sdfstudio)
