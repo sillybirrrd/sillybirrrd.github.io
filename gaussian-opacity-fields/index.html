@@ -64,9 +64,13 @@
         <div class="column has-text-centered">
           <h1 class="title is-1 publication-title" style="margin-bottom: 0"><strong>Gaussian Opacity Fields</strong></h1>
           <br>
-          <h2 class="title is-3 publication-title" style="margin-top: 0; margin-bottom: 0">Efficient and Compact Surface Reconstruction</h2>
+          <h2 class="title is-3 publication-title" style="margin-top: 0; margin-bottom: 0">Efficient Adaptive Surface Reconstruction</h2>
           <h2 class="title is-3 publication-title" style="margin-top: 0; margin-bottom: 0">in Unbounded Scenes</h2>
           <br>
+          <br>
+          <h2 class="title is-4" style="margin-top: 0; margin-bottom: 0">SIGGRAPH ASIA 2024 (Journal Track)</h2>
+          <br>
+
           <div class="is-size-5 publication-authors">
             <span class="author-block">
               <a href="https://niujinshuchong.github.io/">Zehao Yu</a><sup>1,2</sup></span>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -89,7 +93,7 @@
             <div class="publication-links">
               <!-- PDF Link. -->
               <span class="link-block">
-                <a href="https://drive.google.com/file/d/13i3HeVBiqN8JXnwAzTvQrPz2rShxIhMv/view?usp=sharing"
+                <a href="https://drive.google.com/file/d/1_IEpaSqDP4DzQ3TbhKyjhXo6SKscpaeq/view?usp=share_link"
                    class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                       <i class="fas fa-file-pdf"></i>
@@ -155,7 +159,7 @@
           <img src="./resources/teaser_gof.png" style="transform: scale(1.2);" class="center">
           <h2 class="subtitle has-text-centered" style="margin-top: 25px">
             TL;DR: Gaussian Opacity Fields (GOF) enables geometry extraction with 3D Gaussians directly by indentifying its level set. 
-            Our regularization improves surface reconstruction and we utilize Marching Tetrahedra for compact and scene adaptive mesh extraction.
+            Our regularization improves surface reconstruction and we utilize Marching Tetrahedra for scene adaptive and compact mesh extraction.
           </h2>
         </div>
       </div>
@@ -174,12 +178,12 @@
           <p>
             Recently, 3D Gaussian Splatting (3DGS) has demonstrated impressive novel view synthesis results, while allowing the rendering of high-resolution images in real-time. 
             However, leveraging 3D Gaussians for surface reconstruction poses significant challenges due to the explicit and disconnected nature of 3D Gaussians. 
-            In this work, we present Gaussian opacity field (GOF), a novel approach for efficient, high-quality, and compact surface reconstruction in unbounded scenes. 
+            In this work, we present Gaussian Opacity Fields (GOF), a novel approach for efficient, high-quality, and adaptive surface reconstruction in unbounded scenes. 
             Our GOF is derived from ray-tracing-based volume rendering of 3D Gaussians, enabling direct geometry extraction from 3D Gaussians by identifying its levelset, without resorting to Poisson reconstruction or TSDF fusion as in previous work. 
             We approximate the surface normal of Gaussians as the normal of the ray-Gaussian intersection plane, enabling the application of regularization that significantly enhances geometry. 
-            Furthermore, we develop an efficient geometry extraction method utilizing marching tetrahedra, where the tetrahedral grids are induced from 3D Gaussians and thus adapt to the scene's complexity. 
+            Furthermore, we develop an efficient geometry extraction method utilizing Marching Tetrahedra, where the tetrahedral grids are induced from 3D Gaussians and thus adapt to the scene's complexity. 
             Our evaluations reveal that GOF surpasses existing 3DGS-based methods in surface reconstruction and novel view synthesis. 
-            Further, it compares favorably to, or even outperforms, neural implicit methods in both quality and speed.
+            Further, it compares favorably to or even outperforms, neural implicit methods in both quality and speed.
           </p>
         </div>
       </div>
@@ -365,8 +369,8 @@
     <h2 class="title">BibTeX</h2>
     <pre><code>@article{Yu2024GOF,
   author    = {Yu, Zehao and Sattler, Torsten and Geiger, Andreas},
-  title     = {Gaussian Opacity Fields: Efficient High-quality Compact Surface Reconstruction in Unbounded Scenes},
-  journal   = {arXiv preprint arXiv:2404.10772},
+  title     = {Gaussian Opacity Fields: Efficient Adaptive Surface Reconstruction in Unbounded Scenes},
+  journal   = {ACM Transactions on Graphics},
   year      = {2024},
 }</code></pre>
   </div>
@@ -375,8 +379,7 @@
 <section class="section" id="Acknowledgements">
   <div class="container is-max-desktop content">
     <h2 class="title">Acknowledgements</h2>
-    We thank Christian Reiser for insightful discussions and valuable feedback throughout the project.
-    We also thank Binbin Huang for proofreading. 
+    We thank Christian Reiser and Binbin Huang for insightful discussions and valuable feedback throughout the project and proofreading.
     ZY and AG are supported by the ERC Starting Grant LEGO-3D (850533) and DFG EXC number 2064/1 - project number 390727645.
     TS is supported by a Czech Science Foundation (GACR) EXPRO grant (UNI-3D, grant no. 23-07973X).
   </div>
