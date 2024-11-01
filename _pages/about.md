@@ -23,7 +23,7 @@ Education
 	* Advisor: Andreas Geiger and Torsten Sattler
 * **ShanghaiTech University, China (Aug. 2018 - July 2021)**
 	* M.S., Computer Science
-	* Advisor: [Shenghua Gao](https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54772/page.htm)
+	* Advisor: [Shenghua Gao](https://cs.hku.hk/people/academic-staff/gaosh)
 *  **Xiamen University, China (Aug 2014 - Jun 2018)**
 	* B.E., Software Engineering
 
