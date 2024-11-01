@@ -33,11 +33,11 @@ Work experience
 	* Research Intern
 	* 3D Human Modeling
 
-Publications
+Selected publications
 ======
-* **[Gaussian Opacity Fields: Efficient and Compact Surface Reconstruction in Unbounded Scenes](https://niujinshuchong.github.io/gaussian-opacity-fields/)**
+* **[Gaussian Opacity Fields: Efficient Adaptive Surface Reconstruction in Unbounded Scenes](https://niujinshuchong.github.io/gaussian-opacity-fields/)**
 	* **Zehao Yu**, Torsten Sattler, Andreas Geiger
-	* arXiv, 2024
+	* ACM Transactions on Graphics, SIGGRAPH ASIA 2024
 	* [Project](https://niujinshuchong.github.io/gaussian-opacity-fields/), [Paper](https://arxiv.org/pdf/2404.10772.pdf), [Code](https://github.com/autonomousvision/gaussian-opacity-fields)
 
 * **[2D Gaussian Splatting for Geometrically Accurate Radiance Fields](https://surfsplatting.github.io/)**
@@ -60,16 +60,6 @@ Publications
 	* Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS**), 2022
 	* [Project](https://niujinshuchong.github.io/monosdf/), [Paper](https://arxiv.org/abs/2206.00665), [Code](https://github.com/autonomousvision/monosdf)
 
-* **[TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving](https://github.com/autonomousvision/transfuser)**
-	* Kashyap Chitta, Aditya Prakash, Bernhard Jaeger, **Zehao Yu**, Katrin Renz, Andreas Geiger
-	* IEEE Transactions on Pattern Analysis and Machine Intelligence (**PAMI**), 2022
-	* [Paper](http://www.cvlibs.net/publications/Chitta2022PAMI.pdf), [Code](https://github.com/autonomousvision/transfuser)
-
-* **[AS-MLP: An Axial Shifted MLP Architecture for Vision](https://github.com/svip-lab/AS-MLP)**
-	* Dongze Lian*, **Zehao Yu\***, Xing Sun, Shenghua Gao
-	* International Conference on Learning Representations (**ICLR**), 2022
-	* [Paper](https://arxiv.org/pdf/2107.08391.pdf), [Code](https://github.com/svip-lab/AS-MLP)
-
 * **[P<sup>2</sup>Net: Patch-match and Plane-regularization for Unsupervised Indoor Depth Estimation](https://github.com/svip-lab/Indoor-SfMLearner)**
 	* **Zehao Yu\***, Lei Jin*, Shenghua Gao
 	* European Conference on Computer Vision (**ECCV**), 2020
@@ -84,11 +74,6 @@ Publications
 	* **Zehao Yu\***, Jia Zheng*, Dongze Lian, Zihan Zhou, Shenghua Gao
 	* IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019
 	* [Paper](https://arxiv.org/pdf/1902.09777.pdf), [Code](https://github.com/svip-lab/PlanarReconstruction)
-
-* **[Believe It or Not, We Know What You Are Looking at!](https://github.com/svip-lab/GazeFollowing)**
-	* Dongze Lian*, **Zehao Yu\***, Shenghua Gao
-	* Asian Conference on Computer Vision (**ACCV**), 2018
-	* [Paper](https://arxiv.org/pdf/1907.02364.pdf), [Code](https://github.com/svip-lab/GazeFollowing)
 
 
 Professional Services
