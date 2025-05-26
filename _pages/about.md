@@ -13,7 +13,7 @@ redirect_from:
 <tr>
 <td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
 <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-  <source src="../images/grgs.mp4" type="video/mp4">
+  <source src="../images/GRGS.mp4" type="video/mp4">
 </video>
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
