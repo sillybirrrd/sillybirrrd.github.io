@@ -77,7 +77,6 @@ Zhe Li*, <b>Yipengjing Sun</b>*, Zerong Zheng, Lizhen Wang, Shengping Zhang, Yeb
     </tr>
   </tbody>
 </table>
----
 <!-- | Date | Race Name | Distance | Time | 
 |------|-----------|----------|------|
 | 2025-03-09 | Pukou Marathon | Half Marathon | 1:39:25 | 
