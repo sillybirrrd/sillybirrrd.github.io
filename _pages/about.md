@@ -17,7 +17,7 @@ redirect_from:
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 PhD 2022 - Now<br>
-<a href="https://computing.hit.edu.cn/">Department of Computer Science</a><br>
+<a href="https://computing.hit.edu.cn/">Faculty of Computing</a><br>
 <a href="https://www.hit.edu.cn/">Harbin Institute of Technology</a><br>
 </td>
 </tr>
@@ -28,7 +28,7 @@ PhD 2022 - Now<br>
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 MSc 2020 - 2021<br>
-<a href="https://www.imperial.ac.uk/computing/">Faculty of Computing</a><br>
+<a href="https://www.imperial.ac.uk/computing/">Department of Computing</a><br>
 <a href="https://www.imperial.ac.uk/">Imperial College London</a><br>
 </td>
 </tr>
