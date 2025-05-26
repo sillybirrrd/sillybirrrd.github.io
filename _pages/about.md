@@ -35,7 +35,7 @@ MSc 2020 - 2021<br>
 
 <tr>
 <td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
-<img width="80" src="../images/xjtlu-logo.png"/> 
+<img width="80" src="../images/liverpool-logo.png"/> 
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 BSc 2018 - 2020<br>
