@@ -27,7 +27,9 @@ redirect_from:
 </tr>
 </table>
 </div>
+
 ---
+
 <div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
@@ -47,7 +49,9 @@ Zhe Li*, <b>Yipengjing Sun</b>*, Zerong Zheng, Lizhen Wang, Shengping Zhang, Yeb
 </tr>
 </table>
 </div>
+
 ---
+
 ## Running Journey
 2024-06 - Now
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
@@ -82,6 +86,7 @@ Zhe Li*, <b>Yipengjing Sun</b>*, Zerong Zheng, Lizhen Wang, Shengping Zhang, Yeb
 | 2025-03-09 | Pukou Marathon | Half Marathon | 1:39:25 | 
 | 2025-04-20 | Rongcheng Marathon | Half Marathon | 1:30:32 | 
 --- -->
+
 ## Background
 
 <div>
