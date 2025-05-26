@@ -8,7 +8,26 @@ redirect_from:
   - /about.html
 ---
 ## Research
-
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
+<video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
+  <source src="../images/grgs.mp4" type="video/mp4">
+</video>
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
+<b>Generalizable and Relightable Gaussian Splatting for Human Novel View Synthesis</b><br>
+<b>Yipengjing Sun</b>, Chenyang Wang, Shunyuan Zheng, Zonglin Li, Shengping Zhang, Xiangyang Ji<br>
+<i>arXiv, 2025</i><br>
+<a href="https://grgs.github.io/relight/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+<a href="https://arxiv.org/pdf/2311.16096"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
+<a href="https://www.youtube.com/watch?v=odQOweNhsHM"><i class="fas fa-fw fa-video"></i>Video</a>
+</td>
+</tr>
+</table>
+</div>
+---
 <div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
@@ -28,8 +47,6 @@ Zhe Li*, <b>Yipengjing Sun</b>*, Zerong Zheng, Lizhen Wang, Shengping Zhang, Yeb
 </tr>
 </table>
 </div>
-
----
 ## Background
 
 <div>
