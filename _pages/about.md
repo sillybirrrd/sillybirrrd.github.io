@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hi this is Yipengjing Sun. I am a PhD student in Faculty of Computing, Harbin Institute of Technology, advised by Prof. [Shengping Zhang](https://homepage.hit.edu.cn/zhangshengping). My research focuses on **human-centric 3D vision & graphics**, including human reconstruction, animation and relighting.
 ## Research
 <div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
