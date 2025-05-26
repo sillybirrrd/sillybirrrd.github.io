@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UDHS_uQAAAAJ&hl=zh-CN"
-  email            :
+  email            : yipengjing.sun@stu.hit.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sillybirrrd"
+  github           : # "sillybirrrd"
   google_plus      :
   keybase          :
   instagram        :
