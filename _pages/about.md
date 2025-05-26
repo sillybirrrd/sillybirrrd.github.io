@@ -7,6 +7,29 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## Research
+
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
+<video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
+  <source src="../images/ani_relit_gaussians.mp4" type="video/mp4">
+</video>
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
+<b>Animatable and Relightable Gaussians for High-fidelity Human Avatar Modeling</b><br>
+<b>Zhe Li</b>*, Yipengjing Sun*, Zerong Zheng, Lizhen Wang, Shengping Zhang, Yebin Liu (*=equal contribution)<br>
+<i>arXiv, 2024</i><br>
+<a href="https://animatable-gaussians.github.io/relight/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+<a href="https://arxiv.org/pdf/2311.16096"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
+<a href="https://www.youtube.com/watch?v=odQOweNhsHM"><i class="fas fa-fw fa-video"></i>Video</a>
+</td>
+</tr>
+</table>
+</div>
+
+---
 ## Background
 
 <div>
