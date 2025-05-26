@@ -50,11 +50,38 @@ Zhe Li*, <b>Yipengjing Sun</b>*, Zerong Zheng, Lizhen Wang, Shengping Zhang, Yeb
 ---
 ## 🏃‍♂️ Running Journey
 2024-06 - Now
-| Date | Race Name | Distance | Time | 
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Race Name</th>
+      <th>Distance</th>
+      <th>Time</th>
+<!--       <th>Notes</th> -->
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2025-03-09</td>
+      <td>Pukou Marathon</td>
+      <td>Half Marathon</td>
+      <td>1:39:25</td>
+<!--       <td>My first official race – mission complete!</td> -->
+    </tr>
+    <tr>
+      <td>2025-04-20</td>
+      <td>Rongcheng Marathon</td>
+      <td>Half Marathon</td>
+      <td>1:30:32</td>
+<!--       <td>My first full marathon finish!</td> -->
+    </tr>
+  </tbody>
+</table>
+<!-- | Date | Race Name | Distance | Time | 
 |------|-----------|----------|------|
 | 2025-03-09 | Pukou Marathon | Half Marathon | 1:39:25 | 
 | 2025-04-20 | Rongcheng Marathon | Half Marathon | 1:30:32 | 
----
+--- -->
 ## Background
 
 <div>
