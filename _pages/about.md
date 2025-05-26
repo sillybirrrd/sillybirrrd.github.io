@@ -50,7 +50,7 @@ Zhe Li*, <b>Yipengjing Sun</b>*, Zerong Zheng, Lizhen Wang, Shengping Zhang, Yeb
 ---
 ## 🏃‍♂️ Running Journey
 2024-06 - Now
-<table>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
   <thead>
     <tr>
       <th>Date</th>
