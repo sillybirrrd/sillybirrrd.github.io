@@ -19,7 +19,7 @@ redirect_from:
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>Animatable and Relightable Gaussians for High-fidelity Human Avatar Modeling</b><br>
-<b>Zhe Li</b>*, Yipengjing Sun*, Zerong Zheng, Lizhen Wang, Shengping Zhang, Yebin Liu (*=equal contribution)<br>
+Zhe Li*, <b>Yipengjing Sun</b>*, Zerong Zheng, Lizhen Wang, Shengping Zhang, Yebin Liu (*=equal contribution)<br>
 <i>arXiv, 2024</i><br>
 <a href="https://animatable-gaussians.github.io/relight/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
 <a href="https://arxiv.org/pdf/2311.16096"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
