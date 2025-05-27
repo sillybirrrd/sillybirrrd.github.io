@@ -134,10 +134,10 @@
           <div class="col-12 text-center">
             <h3>Method</h3>
               <hr style="margin-top:0px">
-            <img src="assets/GPS-Gaussian/images/pipeline.png" width="100%" alt=""/>
+            <img src="resources/pipeline_v4.pdf" width="100%" alt=""/>
             <p>&nbsp;</p>
             <p>
-              <b>Overview of GPS-Gaussian.</b> Given RGB images of a human-centered scene with sparse camera views and a target novel viewpoint, we select the adjacent two views on which to formulate our Gaussian representation. We extract the image features followed by conducting an iterative depth estimation. For each source view, the depth map and the RGB image serve as a 3D position map and a color map, respectively, to formulate the Gaussian representation while the other parameters of 3D Gaussians are predicted in a pixel-wise manner. The Gaussian parameter maps defined on 2D image planes of both views are further unprojected to 3D space and aggregated for novel view rendering. The fully differentiable framework enables all networks a joint training mechanism.
+              <b>Overview of GRGS.</b> Given sparse-view images of a performer under arbitrary illumination, GRGS first leverages the LGR module to reconstruct accurate depth and surface normals, and then employs the PGNR module for material decomposition and physically plausible realistic relighting from novel viewpoints.
             </p>
             <p>&nbsp;</p>
           </div>
