@@ -22,7 +22,7 @@ Hi this is Yipengjing Sun. I am a PhD student in Faculty of Computing, Harbin In
 <b>Yipengjing Sun</b>, Chenyang Wang, Shunyuan Zheng, Zonglin Li, Shengping Zhang, Xiangyang Ji<br>
 <i>arXiv, 2025</i><br>
 <a href="https://sypj-98.github.io/grgs/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
-<!-- <a href="https://arxiv.org/pdf/2311.16096"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> / -->
+<a href="https://arxiv.org/abs/2505.21502"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
 <a href="https://www.youtube.com/watch?v=mwcIAyEqSY8"><i class="fas fa-fw fa-video"></i>Video</a>
 </td>
 </tr>
