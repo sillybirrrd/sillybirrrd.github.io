@@ -14,7 +14,7 @@ Hi this is Yipengjing Sun. I am a PhD student in Faculty of Computing, Harbin In
 <tr>
 <td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
 <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-  <source src="../images/GRGS.mp4" type="video/mp4">
+  <source src="grgs/resources/dynamic_results.mp4" type="video/mp4">
 </video>
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
